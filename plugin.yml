@@ -1,0 +1,4 @@
+name: Cytosis
+main: io.matthd.cytosis.Cytosis
+version: 1.0
+description: Minigame Core Plugin
